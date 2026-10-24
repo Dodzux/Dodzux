@@ -17,7 +17,7 @@ I enjoy exploring how systems work, customizing my Linux environment, and experi
 
 ### `~ $ cat tools.txt`
 
-`Linux` · `Hyprland` · `Git` · `GitHub` · `chezmoi`
+`Linux` · `Hyprland` · `Git` · `GitHub` · `chezmoi` · `Oracle VirtualBox` · `Codex` · `Godot/Unity`
 
 ### `~ $ ls projects/`
 
