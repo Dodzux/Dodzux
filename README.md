@@ -21,8 +21,7 @@ I enjoy exploring how systems work, customizing my Linux environment, and experi
 
 ### `~ $ ls projects/`
 
-**[HyprDodz](https://github.com/Dodzux/HyprDodz)**
-My personal Hyprland configuration and dotfiles, managed with chezmoi.
+**[HyprDodz](https://github.com/Dodzux/HyprDodz)** My personal Hyprland configuration and dotfiles, managed with chezmoi.
 
 **[Strix-Core](https://github.com/Dodzux/Strix-Core)** My personal Linux control center for my ASUS ROG laptop, inspired by Armoury Crate.
 
