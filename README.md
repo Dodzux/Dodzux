@@ -22,8 +22,6 @@ I enjoy exploring how systems work, customizing my Linux environment, and experi
 ### `~ $ ls projects/`
 
 **[HyprDodz](https://github.com/Dodzux/HyprDodz)**
-**[Strix-Core](https://github.com/Dodzux/Strix-Core)**
-
 My personal Hyprland configuration and dotfiles, managed with chezmoi.
 
 ### `~ $ cat current_status.txt`
